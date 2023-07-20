@@ -1,0 +1,13 @@
+@import './variables';
+
+/*-------------ESTILOS BOTONES---------*/
+
+a {
+    color: $white !important;
+    text-decoration: none !important;
+    font-weight: 100;
+
+    &:hover {
+        color: $btn-color !important;
+    }
+}
