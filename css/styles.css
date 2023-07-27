@@ -14,6 +14,18 @@ a {
   a:hover {
     color: goldenrod !important; }
 
+.btn-academia {
+  padding: 5px 10px 5px 10px;
+  border-radius: 5px;
+  background-color: white;
+  border: 1px solid goldenrod;
+  color: goldenrod;
+  transition: 0.3s ease-in-out; }
+  .btn-academia:hover {
+    border: 1px solid white;
+    color: white;
+    background-color: goldenrod; }
+
 /*-------------------ESTILOS FOOTER------------*/
 footer {
   display: flex;
@@ -175,6 +187,18 @@ a {
   font-weight: 100; }
   a:hover {
     color: goldenrod !important; }
+
+.btn-academia {
+  padding: 5px 10px 5px 10px;
+  border-radius: 5px;
+  background-color: white;
+  border: 1px solid goldenrod;
+  color: goldenrod;
+  transition: 0.3s ease-in-out; }
+  .btn-academia:hover {
+    border: 1px solid white;
+    color: white;
+    background-color: goldenrod; }
 
 /*-------------------ESTILOS FOOTER------------*/
 footer {
